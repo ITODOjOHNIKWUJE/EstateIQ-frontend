@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 node_modules/
 build/
 dist/
 .env
 *.log
+=======
+node_modules/
+build/
+dist/
+.env
+*.log
+>>>>>>> d9ca579 (Add .env file)
